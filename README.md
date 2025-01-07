@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyanshekhar
+- 👋 Hi, I’m @priya nandral
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
